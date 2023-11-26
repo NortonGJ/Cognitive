@@ -8,3 +8,5 @@ addNoise - adding synthetic noise, prepairing data for ML (saving: preShuffle da
 
 New_Spectr - script to show existing data in dynamic
 (TODO: add prediction display, add multiple ways of getting predictions (algorithmic, NN))
+
+NN_test - notebook with example of NN learning process
