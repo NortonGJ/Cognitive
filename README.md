@@ -6,4 +6,5 @@ getData - get real-live noise situation in SW/USW via connected RSP-1 device, sa
 
 addNoise - adding synthetic noise, prepairing data for ML (saving: preShuffle data file, shuffled data file, label files)
 
-New_Spectr - script to show existing data in dynamic (TODO: add prediction display, add multiple ways of getting predictions (algorithmic, NN)
+New_Spectr - script to show existing data in dynamic
+(TODO: add prediction display, add multiple ways of getting predictions (algorithmic, NN))
